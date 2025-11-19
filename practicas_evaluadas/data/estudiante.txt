@@ -1,0 +1,4 @@
+# Archivo de datos del estudiante
+NOMBRE=Erick Andrey Madrigal Durán
+CORREO=erickmadrigalduran@gmail.com
+MATERIAS=Curso1, Curso2, Curso3
